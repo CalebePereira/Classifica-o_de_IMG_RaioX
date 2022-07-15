@@ -11,4 +11,4 @@ Disponível em:
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia?resource=download
 
 ## Modelos
-Foram treinados modelos com Aprendizagem profunda.
+Foram treinados modelos de Aprendizagem profunda.
