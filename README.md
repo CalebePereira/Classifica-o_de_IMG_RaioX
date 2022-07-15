@@ -13,6 +13,8 @@ https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia?resource=
 ## Modelos
 Foram treinados modelos de Aprendizagem profunda.
 
-VGG16
+VGG16: O teste apresentou uma precisão de 86%
+
 RESNET
+
 EFFICIENTNET
