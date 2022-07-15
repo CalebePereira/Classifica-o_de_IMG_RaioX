@@ -9,3 +9,6 @@ Imagens de radiografia de tórax (anterior-posterior) foram selecionadas a parti
 
 Disponível em: 
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia?resource=download
+
+## Modelos
+Foram treinados modelos com Aprendizagem profunda.
